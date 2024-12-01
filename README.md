@@ -24,7 +24,7 @@ See [my website](https://github.com/Jerryemmanuel01) for more information!
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Horizon bank</h3>
+      <h3 align="center">Horizon Bank</h3>
         <br />
         <a target="_blank" href="https://horizon-banking-ten.vercel.app/">
             <img src="assets/horizon.gif" width="100%" alt="Hillside university official website"/>
@@ -61,18 +61,83 @@ See [my website](https://github.com/Jerryemmanuel01) for more information!
     </td>
     
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cruise Trips</h3>
+      <br />
+        <a target="_blank" href="https://cruise-trips.vercel.app/">
+          <img src="assets/cruiseTrips.gif" width="100%" alt="Travel Advisor"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Jerryemmanuel01/Cruise-Trips" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://cruise-trips.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, SCSS, Material UI, REST API</strong> - Cruise-trips is a travel advisor web application, that will render hotels, restaurants and site search for any city of your choice.</p>
+    </td>
+     <td width="5%" valign="top" >
+      <h3 align="center">Dab Daddy</h3>
+        <br />
+       <a target="_blank" href="https://dab-daddy.vercel.app/">
+          <img src="assets/dab-daddy.jpg" width="100%" alt="AboviPH"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Jerryemmanuel01/web3-project" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dab-daddy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js Tailwind, Framer-motion</strong> - A web app showing the details of a web3 based project for credibility and authenticity.</p>
+    </td>
+   
+  </tr>
 </table>
-<!--
-**Jerryemmanuel01/Jerryemmanuel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Technologies</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND-CSS&color=4a935c&style=plastic&logo=tailwindcss"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL-UI&color=4a935c&style=plastic&logo=mui"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=REACT-NATIVE&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node_js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PHP&color=4a935c&style=plastic&logo=php"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=4a935c&style=plastic&logo=postman"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=cdd148&style=plastic&logo=mysql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cbb148&style=plastic&logo=github"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
+</p>
+
+---
+
+<h1 align="center">Connect</h1>
+
+<p align="center">
+  <a href="https://github.com/Jerryemmanuel01" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dominic-jerryemmanuel" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://x.com/Jerryemmanuel65" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  <a href="https://docs.google.com/document/d/1hi-Qz23j9rP4y3mktlCaczhv7Mvz9XIgFwfRleRL9wY/edit?usp=sharing" target="_blank" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
