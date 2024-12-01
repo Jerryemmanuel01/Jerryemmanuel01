@@ -1,4 +1,4 @@
-![banner](assets/prof.png)
+![banner](assets/profileBg.png)
 
 <!--
 **Jerryemmanuel01/Jerryemmanuel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
