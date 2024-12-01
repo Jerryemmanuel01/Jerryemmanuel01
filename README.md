@@ -4,7 +4,7 @@
   <a href="https://github.com/Jerryemmanuel01" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="www.linkedin.com/in/dominic-jerryemmanuel" target="_blank">
+  <a href="https://www.linkedin.com/in/dominic-jerryemmanuel" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://x.com/Jerryemmanuel65" target="_blank">
