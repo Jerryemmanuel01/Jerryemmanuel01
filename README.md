@@ -10,7 +10,7 @@
   <a href="https://x.com/Jerryemmanuel65" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1hi-Qz23j9rP4y3mktlCaczhv7Mvz9XIgFwfRleRL9wY/edit?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1TAkLcuot00QvbXrBDBkwrL3lg8lqUzHl/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
@@ -137,7 +137,7 @@ See [my website](https://github.com/Jerryemmanuel01) for more information!
   </a>
   <a href="https://x.com/Jerryemmanuel65" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  <a href="https://docs.google.com/document/d/1hi-Qz23j9rP4y3mktlCaczhv7Mvz9XIgFwfRleRL9wY/edit?usp=sharing" target="_blank" target="_blank">
+  <a href="https://drive.google.com/file/d/1TAkLcuot00QvbXrBDBkwrL3lg8lqUzHl/view?usp=drive_link" target="_blank" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
